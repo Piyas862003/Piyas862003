@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile Piyas862003! I'm a curious and creative learner exploring the intersection of data engineering and AI-powered storytelling.
 
-<img align="right" alt="Coding" width="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 ## 🌟 About Me:
 - 🔭 Currently experimenting with AI video generation and refining prompt design.
