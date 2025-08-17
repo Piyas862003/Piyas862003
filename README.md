@@ -4,7 +4,7 @@ Welcome to my GitHub profile Piyas862003! I'm a curious and creative learner exp
 
 <img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-## 🌟 About Me:
+**ABOUT ME**
 - 🔭 Currently experimenting with AI video generation and refining prompt design.
 - 🌱 Learning data pipelines, cloud platforms, and practical applications of machine learning.
 - 👯 Looking to collaborate on open-source projects and internships in data engineering.
